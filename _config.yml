@@ -1,17 +1,17 @@
 # Site settings
-title: Armia Habib
+title: Daniel Farone
 description: My personal webpage.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-url: armiadata.github.io
+url: dfarone02.github.io
 
 # User settings
-username: Armia Habib
+username: Daniel Farone
 user_description:
 user_title: Data Science Intern
-email: 	armiadata@gmail.com
+email: 	danielfarone@yahoo.com
 #twitter_username: ArmiaData
-github_username:  ArmiaData
+github_username:  dfarone02
 #gplus_username:  lorem_ipsum
 
 # Google-analytics
